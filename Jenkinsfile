@@ -6,7 +6,6 @@
         maven 'maven2'
     } 
 
-  
     stages {
         
          
